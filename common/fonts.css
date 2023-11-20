@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'font1' ;
+    src: url(../assets/fonts/3b0d449e8ed9e13f4037af4e26b4965c.otf);
+}
+
+@font-face {
+    font-family: 'font2' ;
+    src: url(../assets/fonts/x1.woff2);
+}
+
+
+@font-face {
+    font-family: 'font3';
+    src: url(../assets/fonts/ft1.woff2);
+}
+
+
+@font-face {
+    font-family: 'font4';
+    src: url(../assets/fonts/ft2.woff2);
+}
+
+@font-face {
+    font-family: 'font5';
+    src: url(../assets/fonts/helveticaNeueMedium.woff2);
+}
+
+
+@font-face {
+    font-family: 'font6';
+    src: url(../assets/fonts/AdihausDIN-CnMediumItalic.woff2);
+}
+
+
+@font-face {
+    font-family: 'font7';
+    src: url(../assets/fonts/AdihausDIN-Bold.woff2);
+}
